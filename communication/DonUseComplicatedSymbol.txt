@@ -1,0 +1,4 @@
+Rules:
+1) Use ONLY plain text, eg ->. No arrows (→), no special symbols, no emojis.
+2) Use short steps with numbers: 1) 2) 3)
+3) Reason: Easy copy/paste ! Sometimes, my pc cannot support those symbols.
